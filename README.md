@@ -1,7 +1,5 @@
 # Hi, I'm Ali Zain 👋
 
-![GitHub Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Ali+Zain's+GitHub+Profile)
-
 ## About Me
 
 I am a passionate Python Programmer, Django Web Developer, and Experienced Web Scraper available for hire for temporary work. I love solving complex problems and automating tasks to improve efficiency and productivity. Here’s a bit more about me:
