@@ -10,10 +10,6 @@ I am a passionate Python Programmer, Django Web Developer, and Experienced Web S
 - **Browser Automation:** Automating web tasks is something I excel at, making repetitive tasks easier and faster.
 - **Discord Bot Developer:** I develop custom Discord bots to enhance server functionality and user experience.
 
-## Tagline
-
-> Striving Software Developer in Python | Aspiring Full Stack Developer in Django | Expert Data Scraper | Browser Automation | Discord Bot Developer
-
 ## Get in Touch
 
 - **LinkedIn:** [Ali Zain](https://www.linkedin.com/in/alizaincodes)
