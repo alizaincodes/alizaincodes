@@ -14,7 +14,9 @@ I am a passionate Python Programmer, Django Web Developer, and Experienced Web S
 
 - **LinkedIn:** [Ali Zain](https://www.linkedin.com/in/alizaincodes)
 - **GitHub:** [alizaincodes](https://github.com/alizaincodes)
-- **Email:** alizain@example.com
+- **Email:** alizain.dev@proton.me
+- **Discord:** [Discord/alizaincodes](https://discordapp.com/users/alizaincodes/)
+- **Facebook:** [Facebook/alizaincodes](https://facebook.com/@alizaincodes)
 
 ## Skills
 
