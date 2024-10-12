@@ -36,7 +36,7 @@ Here are a few projects I've worked on:
 Feel free to check out my repositories and reach out if you have any questions or project inquiries. I'm always excited to collaborate on interesting projects!
 
 ## Contributions 
--> mmujtabah/CodingChallenges (Open Link)(https://github.com/mmujtabah/CodingChallenges/)
+-> mmujtabah/CodingChallenges [Open Link](https://github.com/mmujtabah/CodingChallenges/)
 
 
 Thank you for visiting my GitHub profile! 😊
