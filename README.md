@@ -25,6 +25,9 @@ I am a passionate Python Programmer, Django Web Developer, and Experienced Web S
 - **Tools and Technologies:** Git, Selenium, BeautifulSoup
 - **Others:** Web Scraping, Browser Automation, Discord Bot Development
 
+## Badges 
+[![An image of @alizaincodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alizaincodes)](https://holopin.io/@alizaincodes)
+
 ## Projects
 
 Here are a few projects I've worked on:
